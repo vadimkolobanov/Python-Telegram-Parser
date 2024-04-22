@@ -11,7 +11,7 @@
 ## Установка
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/telegram-parser.git
+   git clone https://github.com/vadimkolobanov/Python-Telegram-Parser.git
    ```
 2. Перейдите в директорию проекта:
    ```bash
